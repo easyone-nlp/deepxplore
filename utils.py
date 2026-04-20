@@ -56,7 +56,7 @@ def scale(o):
 def init_coverage(coverage_table, output_table):
     for key in output_table.keys():
         out = output_table[key][0]
-        coverage_table[key] = torch.zeros(out.shape[0], dtype=torch.bool)
+        coverage_table[key] = torch.zeros(out.shape[0], dtype=torch.bool, device=out.device)
 
 
 def update_coverage(coverage_table, output_table, threshold):
