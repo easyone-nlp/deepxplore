@@ -137,7 +137,7 @@ Important files:
 
 The `results/selected_cases/` directory contains five representative disagreement-inducing examples selected for analysis.
 
-## Project-Specific Modifications
+## Modifications
 
 Compared with the original ImageNet-oriented prototype, this repository was modified to:
 
