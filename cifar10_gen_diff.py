@@ -52,7 +52,7 @@ def parse_args():
         help="Constraint used on the input gradients.",
     )
     parser.add_argument("--dataset-root", default="./CIFAR-10/data", help="Root directory for CIFAR-10 data.")
-    parser.add_argument("--output-dir", default="./generated_inputs_cifar10", help="Directory for generated results.")
+    parser.add_argument("--output-dir", default="./results", help="Directory for generated results.")
     parser.add_argument("--seeds", type=int, default=20, help="Number of CIFAR-10 test samples to try.")
     parser.add_argument("--grad-iterations", type=int, default=300, help="Maximum gradient steps per seed.")
     parser.add_argument("--step", type=float, default=0.1, help="Gradient ascent step size.")

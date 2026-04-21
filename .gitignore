@@ -1,9 +1,11 @@
 __pycache__
-test.py
 *.pth
 resnet50_cifar10_*.png
 generated_inputs_cifar10_smoke/
 generated_inputs_cifar10_run*/
+results_smoke_test/
+results_exp*/
+results/idx*_*.png
 CIFAR-10/data/
 CIFAR-10/checkpoint.pth
 CIFAR-10/__pycache__/

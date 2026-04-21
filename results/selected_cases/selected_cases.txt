@@ -1,0 +1,45 @@
+case01_idx05880_airplane
+  dataset_index: 5880
+  true_label: airplane
+  initial_predictions: ['airplane', 'airplane', 'airplane']
+  final_predictions: ['automobile', 'airplane', 'airplane']
+  mean_coverage: 0.8433
+  original: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case01_idx05880_airplane_original.png
+  generated: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case01_idx05880_airplane_generated.png
+
+case02_idx04749_bird
+  dataset_index: 4749
+  true_label: bird
+  initial_predictions: ['bird', 'bird', 'bird']
+  final_predictions: ['cat', 'bird', 'bird']
+  mean_coverage: 0.8432
+  original: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case02_idx04749_bird_original.png
+  generated: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case02_idx04749_bird_generated.png
+
+case03_idx04958_deer
+  dataset_index: 4958
+  true_label: deer
+  initial_predictions: ['deer', 'deer', 'deer']
+  final_predictions: ['dog', 'deer', 'deer']
+  mean_coverage: 0.8425
+  original: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case03_idx04958_deer_original.png
+  generated: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case03_idx04958_deer_generated.png
+
+case04_idx03002_horse
+  dataset_index: 3002
+  true_label: horse
+  initial_predictions: ['horse', 'horse', 'horse']
+  final_predictions: ['horse', 'horse', 'cat']
+  mean_coverage: 0.8432
+  original: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case04_idx03002_horse_original.png
+  generated: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case04_idx03002_horse_generated.png
+
+case05_idx03205_ship
+  dataset_index: 3205
+  true_label: ship
+  initial_predictions: ['ship', 'ship', 'ship']
+  final_predictions: ['airplane', 'ship', 'ship']
+  mean_coverage: 0.8433
+  original: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case05_idx03205_ship_original.png
+  generated: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/selected_cases/case05_idx03205_ship_generated.png
+

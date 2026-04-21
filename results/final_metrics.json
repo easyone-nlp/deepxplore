@@ -1,0 +1,21 @@
+{
+  "tested_inputs": 100,
+  "disagreement_inducing_inputs": 98,
+  "deepxplore_induced_disagreements": 63,
+  "already_disagreeing_inputs": 35,
+  "average_coverage_all_inputs": [
+    0.8164493787288666,
+    0.8134235897660256,
+    0.8091278412938118
+  ],
+  "maximum_coverage_all_inputs": [
+    0.8499435186386108,
+    0.8435617685317993,
+    0.8364834785461426
+  ],
+  "average_coverage_induced_only": [
+    0.8141662062160553,
+    0.8120852637858618,
+    0.8077605248443664
+  ]
+}

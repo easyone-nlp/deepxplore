@@ -1,0 +1,7 @@
+tested_inputs: 100
+disagreement_inducing_inputs: 98
+deepxplore_induced_disagreements: 63
+already_disagreeing_inputs: 35
+average_coverage_all_inputs: [0.816449, 0.813424, 0.809128]
+maximum_coverage_all_inputs: [0.849944, 0.843562, 0.836483]
+average_coverage_induced_only: [0.814166, 0.812085, 0.807761]

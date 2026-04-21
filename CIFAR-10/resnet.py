@@ -1,7 +1,6 @@
 ## 코드 출처 : https://velog.io/@tolerance0718/PyTorch-%EA%B8%B0%EB%B0%98-ResNet-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0
 import torch
 from torch import nn
-from torchinfo import summary
 
 class BasicBlock(nn.Module):
     expansion = 1 # 클래스 속성
@@ -138,6 +137,8 @@ def resnet152(**kwargs):
     return ResNet(Bottleneck, [3, 8, 36, 3], **kwargs)
 
 if __name__ == "__main__":
+    from torchinfo import summary
+
     model = resnet152()
     x = torch.randn(2, 3, 224, 224)
     print(model(x).shape)

@@ -1,0 +1,571 @@
+summary: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/summary.json
+induced_count: 63
+already_disagreeing_count: 35
+
+[1]
+dataset_index: 3771
+true_label: bird
+initial_predictions: ['airplane', 'airplane', 'airplane']
+final_predictions: ['bird', 'airplane', 'airplane']
+coverage: [0.40272969007492065, 0.49845632910728455, 0.4523719847202301]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03771_bird_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03771_bird_occl_original.png
+
+[2]
+dataset_index: 6672
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['automobile', 'truck', 'truck']
+coverage: [0.5457831621170044, 0.6708772778511047, 0.657511293888092]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx06672_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx06672_truck_occl_original.png
+
+[3]
+dataset_index: 7261
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['airplane', 'ship', 'ship']
+coverage: [0.5851656794548035, 0.6983433961868286, 0.6787274479866028]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx07261_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx07261_ship_occl_original.png
+
+[4]
+dataset_index: 760
+true_label: cat
+initial_predictions: ['cat', 'cat', 'cat']
+final_predictions: ['horse', 'cat', 'cat']
+coverage: [0.6472891569137573, 0.7182417511940002, 0.6937311887741089]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00760_cat_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00760_cat_occl_original.png
+
+[5]
+dataset_index: 2679
+true_label: airplane
+initial_predictions: ['airplane', 'airplane', 'airplane']
+final_predictions: ['ship', 'airplane', 'airplane']
+coverage: [0.669691264629364, 0.7394766807556152, 0.7078501582145691]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02679_airplane_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02679_airplane_occl_original.png
+
+[6]
+dataset_index: 2305
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['airplane', 'truck', 'truck']
+coverage: [0.6836408376693726, 0.7443147897720337, 0.7330572605133057]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02305_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02305_truck_occl_original.png
+
+[7]
+dataset_index: 3625
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['airplane', 'ship', 'ship']
+coverage: [0.6901543736457825, 0.7597891688346863, 0.7461972832679749]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03625_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03625_ship_occl_original.png
+
+[8]
+dataset_index: 4236
+true_label: automobile
+initial_predictions: ['automobile', 'automobile', 'automobile']
+final_predictions: ['horse', 'automobile', 'automobile']
+coverage: [0.763140082359314, 0.7874811887741089, 0.7725527286529541]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04236_automobile_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04236_automobile_occl_original.png
+
+[9]
+dataset_index: 9005
+true_label: dog
+initial_predictions: ['dog', 'dog', 'dog']
+final_predictions: ['cat', 'dog', 'dog']
+coverage: [0.7723268270492554, 0.7903991341590881, 0.7730422019958496]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx09005_dog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx09005_dog_occl_original.png
+
+[10]
+dataset_index: 3093
+true_label: horse
+initial_predictions: ['horse', 'horse', 'horse']
+final_predictions: ['cat', 'horse', 'horse']
+coverage: [0.7894201874732971, 0.7929217219352722, 0.7786898016929626]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03093_horse_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03093_horse_occl_original.png
+
+[11]
+dataset_index: 4736
+true_label: automobile
+initial_predictions: ['automobile', 'automobile', 'automobile']
+final_predictions: ['horse', 'automobile', 'automobile']
+coverage: [0.8262236714363098, 0.8003953695297241, 0.7923004627227783]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04736_automobile_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04736_automobile_occl_original.png
+
+[12]
+dataset_index: 4056
+true_label: airplane
+initial_predictions: ['airplane', 'airplane', 'airplane']
+final_predictions: ['horse', 'airplane', 'airplane']
+coverage: [0.8293298482894897, 0.8016754388809204, 0.7973456382751465]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04056_airplane_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04056_airplane_occl_original.png
+
+[13]
+dataset_index: 4178
+true_label: horse
+initial_predictions: ['horse', 'horse', 'horse']
+final_predictions: ['bird', 'horse', 'horse']
+coverage: [0.8310429453849792, 0.8054028749465942, 0.7993034720420837]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04178_horse_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04178_horse_occl_original.png
+
+[14]
+dataset_index: 1287
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['automobile', 'truck', 'truck']
+coverage: [0.8331701755523682, 0.808151364326477, 0.8028802871704102]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx01287_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx01287_truck_occl_original.png
+
+[15]
+dataset_index: 8343
+true_label: cat
+initial_predictions: ['cat', 'cat', 'cat']
+final_predictions: ['airplane', 'cat', 'cat']
+coverage: [0.8332266807556152, 0.809036135673523, 0.8030497431755066]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08343_cat_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08343_cat_occl_original.png
+
+[16]
+dataset_index: 4623
+true_label: dog
+initial_predictions: ['dog', 'dog', 'dog']
+final_predictions: ['cat', 'dog', 'dog']
+coverage: [0.8367846608161926, 0.8101280331611633, 0.8098268508911133]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04623_dog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04623_dog_occl_original.png
+
+[17]
+dataset_index: 5950
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['automobile', 'truck', 'truck']
+coverage: [0.8368223309516907, 0.8122740983963013, 0.8128953576087952]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05950_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05950_truck_occl_original.png
+
+[18]
+dataset_index: 8321
+true_label: deer
+initial_predictions: ['deer', 'deer', 'deer']
+final_predictions: ['cat', 'deer', 'deer']
+coverage: [0.8375000357627869, 0.8124058842658997, 0.8149661421775818]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08321_deer_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08321_deer_occl_original.png
+
+[19]
+dataset_index: 3916
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['automobile', 'truck', 'truck']
+coverage: [0.8377635478973389, 0.8124247193336487, 0.8151355385780334]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03916_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03916_truck_occl_original.png
+
+[20]
+dataset_index: 3162
+true_label: automobile
+initial_predictions: ['automobile', 'automobile', 'automobile']
+final_predictions: ['horse', 'automobile', 'automobile']
+coverage: [0.8381965756416321, 0.8153426647186279, 0.8241340517997742]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03162_automobile_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03162_automobile_occl_original.png
+
+[21]
+dataset_index: 7296
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['airplane', 'ship', 'ship']
+coverage: [0.8388554453849792, 0.8157191276550293, 0.8241717219352722]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx07296_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx07296_ship_occl_original.png
+
+[22]
+dataset_index: 4163
+true_label: bird
+initial_predictions: ['frog', 'frog', 'frog']
+final_predictions: ['bird', 'frog', 'frog']
+coverage: [0.8388554453849792, 0.8159826993942261, 0.8246235251426697]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04163_bird_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04163_bird_occl_original.png
+
+[23]
+dataset_index: 8426
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['horse', 'truck', 'truck']
+coverage: [0.8410580158233643, 0.8163968324661255, 0.8254706263542175]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08426_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08426_truck_occl_original.png
+
+[24]
+dataset_index: 4026
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['automobile', 'truck', 'truck']
+coverage: [0.8419616222381592, 0.8205760717391968, 0.827861487865448]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04026_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04026_truck_occl_original.png
+
+[25]
+dataset_index: 2733
+true_label: cat
+initial_predictions: ['cat', 'cat', 'cat']
+final_predictions: ['deer', 'cat', 'cat']
+coverage: [0.8424134254455566, 0.8238328695297241, 0.8289344906806946]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02733_cat_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02733_cat_occl_original.png
+
+[26]
+dataset_index: 704
+true_label: horse
+initial_predictions: ['horse', 'horse', 'horse']
+final_predictions: ['airplane', 'horse', 'horse']
+coverage: [0.8426393270492554, 0.8238328695297241, 0.8289344906806946]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00704_horse_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00704_horse_occl_original.png
+
+[27]
+dataset_index: 5877
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['horse', 'truck', 'truck']
+coverage: [0.845914900302887, 0.8239458203315735, 0.8296121954917908]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05877_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05877_truck_occl_original.png
+
+[28]
+dataset_index: 585
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['airplane', 'truck', 'truck']
+coverage: [0.845933735370636, 0.8241152167320251, 0.8296875357627869]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00585_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00585_truck_occl_original.png
+
+[29]
+dataset_index: 4625
+true_label: deer
+initial_predictions: ['deer', 'deer', 'deer']
+final_predictions: ['dog', 'deer', 'deer']
+coverage: [0.8460090756416321, 0.8241152167320251, 0.8298004865646362]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04625_deer_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04625_deer_occl_original.png
+
+[30]
+dataset_index: 3939
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['dog', 'truck', 'truck']
+coverage: [0.8460090756416321, 0.8241528868675232, 0.8299134373664856]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03939_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03939_truck_occl_original.png
+
+[31]
+dataset_index: 5459
+true_label: dog
+initial_predictions: ['dog', 'dog', 'dog']
+final_predictions: ['deer', 'dog', 'dog']
+coverage: [0.8460278511047363, 0.8251506090164185, 0.8299510478973389]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05459_dog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05459_dog_occl_original.png
+
+[32]
+dataset_index: 4165
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['dog', 'ship', 'ship']
+coverage: [0.8462161421775818, 0.8295557498931885, 0.8299510478973389]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04165_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04165_ship_occl_original.png
+
+[33]
+dataset_index: 7796
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['airplane', 'ship', 'ship']
+coverage: [0.8462161421775818, 0.8295557498931885, 0.8300075531005859]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx07796_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx07796_ship_occl_original.png
+
+[34]
+dataset_index: 6700
+true_label: frog
+initial_predictions: ['frog', 'frog', 'frog']
+final_predictions: ['airplane', 'frog', 'frog']
+coverage: [0.8462161421775818, 0.8295557498931885, 0.830045223236084]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx06700_frog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx06700_frog_occl_original.png
+
+[35]
+dataset_index: 4531
+true_label: automobile
+initial_predictions: ['automobile', 'automobile', 'automobile']
+final_predictions: ['deer', 'automobile', 'automobile']
+coverage: [0.8462349772453308, 0.8298004865646362, 0.8327183723449707]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04531_automobile_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04531_automobile_occl_original.png
+
+[36]
+dataset_index: 1241
+true_label: airplane
+initial_predictions: ['airplane', 'airplane', 'airplane']
+final_predictions: ['deer', 'airplane', 'airplane']
+coverage: [0.8463855385780334, 0.830045223236084, 0.8327183723449707]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx01241_airplane_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx01241_airplane_occl_original.png
+
+[37]
+dataset_index: 5250
+true_label: horse
+initial_predictions: ['horse', 'horse', 'horse']
+final_predictions: ['dog', 'horse', 'horse']
+coverage: [0.8466491103172302, 0.830045223236084, 0.8329066634178162]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05250_horse_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05250_horse_occl_original.png
+
+[38]
+dataset_index: 5045
+true_label: horse
+initial_predictions: ['horse', 'horse', 'horse']
+final_predictions: ['deer', 'horse', 'horse']
+coverage: [0.8466491103172302, 0.830346405506134, 0.833772599697113]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05045_horse_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05045_horse_occl_original.png
+
+[39]
+dataset_index: 147
+true_label: bird
+initial_predictions: ['frog', 'frog', 'frog']
+final_predictions: ['dog', 'frog', 'frog']
+coverage: [0.8466679453849792, 0.830346405506134, 0.833772599697113]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00147_bird_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00147_bird_occl_original.png
+
+[40]
+dataset_index: 2263
+true_label: frog
+initial_predictions: ['frog', 'frog', 'frog']
+final_predictions: ['cat', 'frog', 'frog']
+coverage: [0.8466679453849792, 0.8304028511047363, 0.833772599697113]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02263_frog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02263_frog_occl_original.png
+
+[41]
+dataset_index: 5451
+true_label: frog
+initial_predictions: ['frog', 'frog', 'frog']
+final_predictions: ['cat', 'frog', 'frog']
+coverage: [0.8466679453849792, 0.8394201993942261, 0.8341679573059082]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05451_frog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05451_frog_occl_original.png
+
+[42]
+dataset_index: 5346
+true_label: horse
+initial_predictions: ['horse', 'horse', 'horse']
+final_predictions: ['deer', 'horse', 'horse']
+coverage: [0.8466679453849792, 0.8394201993942261, 0.8346385955810547]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05346_horse_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05346_horse_occl_original.png
+
+[43]
+dataset_index: 4259
+true_label: dog
+initial_predictions: ['dog', 'dog', 'dog']
+final_predictions: ['cat', 'dog', 'dog']
+coverage: [0.8466679453849792, 0.8394766449928284, 0.8346385955810547]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04259_dog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04259_dog_occl_original.png
+
+[44]
+dataset_index: 5360
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['cat', 'truck', 'truck']
+coverage: [0.8470256328582764, 0.8395519852638245, 0.8358057141304016]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05360_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05360_truck_occl_original.png
+
+[45]
+dataset_index: 3462
+true_label: bird
+initial_predictions: ['bird', 'bird', 'bird']
+final_predictions: ['deer', 'bird', 'bird']
+coverage: [0.8470256328582764, 0.84004145860672, 0.8358622193336487]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03462_bird_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03462_bird_occl_original.png
+
+[46]
+dataset_index: 9136
+true_label: frog
+initial_predictions: ['frog', 'frog', 'frog']
+final_predictions: ['cat', 'frog', 'frog']
+coverage: [0.8470256328582764, 0.8400790691375732, 0.8358810544013977]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx09136_frog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx09136_frog_occl_original.png
+
+[47]
+dataset_index: 1995
+true_label: bird
+initial_predictions: ['bird', 'bird', 'bird']
+final_predictions: ['airplane', 'bird', 'bird']
+coverage: [0.8470820784568787, 0.8400790691375732, 0.8358810544013977]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx01995_bird_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx01995_bird_occl_original.png
+
+[48]
+dataset_index: 3286
+true_label: frog
+initial_predictions: ['frog', 'frog', 'frog']
+final_predictions: ['cat', 'frog', 'frog']
+coverage: [0.8478162884712219, 0.8402296900749207, 0.8358810544013977]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03286_frog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03286_frog_occl_original.png
+
+[49]
+dataset_index: 3463
+true_label: cat
+initial_predictions: ['cat', 'cat', 'cat']
+final_predictions: ['dog', 'cat', 'cat']
+coverage: [0.8478162884712219, 0.840624988079071, 0.8358810544013977]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03463_cat_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03463_cat_occl_original.png
+
+[50]
+dataset_index: 8498
+true_label: automobile
+initial_predictions: ['automobile', 'automobile', 'automobile']
+final_predictions: ['cat', 'automobile', 'automobile']
+coverage: [0.8479669094085693, 0.8433170318603516, 0.8358810544013977]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08498_automobile_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08498_automobile_occl_original.png
+
+[51]
+dataset_index: 7190
+true_label: bird
+initial_predictions: ['bird', 'bird', 'bird']
+final_predictions: ['cat', 'bird', 'bird']
+coverage: [0.8480045199394226, 0.8433170318603516, 0.8358998894691467]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx07190_bird_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx07190_bird_occl_original.png
+
+[52]
+dataset_index: 8589
+true_label: dog
+initial_predictions: ['cat', 'cat', 'cat']
+final_predictions: ['dog', 'cat', 'cat']
+coverage: [0.8480045199394226, 0.8433170318603516, 0.835918664932251]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08589_dog_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx08589_dog_occl_original.png
+
+[53]
+dataset_index: 5136
+true_label: truck
+initial_predictions: ['truck', 'truck', 'truck']
+final_predictions: ['automobile', 'truck', 'truck']
+coverage: [0.8480045199394226, 0.8433547019958496, 0.8360128402709961]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05136_truck_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05136_truck_occl_original.png
+
+[54]
+dataset_index: 4958
+true_label: deer
+initial_predictions: ['deer', 'deer', 'deer']
+final_predictions: ['dog', 'deer', 'deer']
+coverage: [0.8480233550071716, 0.8433547019958496, 0.8360316157341003]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04958_deer_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04958_deer_occl_original.png
+
+[55]
+dataset_index: 3035
+true_label: cat
+initial_predictions: ['cat', 'cat', 'cat']
+final_predictions: ['horse', 'cat', 'cat']
+coverage: [0.8480233550071716, 0.8433547019958496, 0.8360316157341003]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03035_cat_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03035_cat_occl_original.png
+
+[56]
+dataset_index: 6488
+true_label: bird
+initial_predictions: ['bird', 'bird', 'bird']
+final_predictions: ['airplane', 'bird', 'bird']
+coverage: [0.8480798602104187, 0.8433547019958496, 0.8360316157341003]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx06488_bird_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx06488_bird_occl_original.png
+
+[57]
+dataset_index: 516
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['automobile', 'ship', 'ship']
+coverage: [0.8499247431755066, 0.8433547019958496, 0.8360316157341003]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00516_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx00516_ship_occl_original.png
+
+[58]
+dataset_index: 4749
+true_label: bird
+initial_predictions: ['bird', 'bird', 'bird']
+final_predictions: ['cat', 'bird', 'bird']
+coverage: [0.8499435186386108, 0.8434111475944519, 0.8362951874732971]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04749_bird_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx04749_bird_occl_original.png
+
+[59]
+dataset_index: 2919
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['airplane', 'ship', 'ship']
+coverage: [0.8499435186386108, 0.8434111475944519, 0.8363328576087952]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02919_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx02919_ship_occl_original.png
+
+[60]
+dataset_index: 3002
+true_label: horse
+initial_predictions: ['horse', 'horse', 'horse']
+final_predictions: ['horse', 'horse', 'cat']
+coverage: [0.8499435186386108, 0.8434111475944519, 0.8363328576087952]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03002_horse_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03002_horse_occl_original.png
+
+[61]
+dataset_index: 5002
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['automobile', 'ship', 'ship']
+coverage: [0.8499435186386108, 0.8434111475944519, 0.8363328576087952]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05002_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05002_ship_occl_original.png
+
+[62]
+dataset_index: 3205
+true_label: ship
+initial_predictions: ['ship', 'ship', 'ship']
+final_predictions: ['airplane', 'ship', 'ship']
+coverage: [0.8499435186386108, 0.8435052633285522, 0.8364646434783936]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03205_ship_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx03205_ship_occl_original.png
+
+[63]
+dataset_index: 5880
+true_label: airplane
+initial_predictions: ['airplane', 'airplane', 'airplane']
+final_predictions: ['automobile', 'airplane', 'airplane']
+coverage: [0.8499435186386108, 0.8435617685317993, 0.8364834785461426]
+generated_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05880_airplane_occl_generated.png
+original_path: /home/dilab/Desktop/Jiwon/ResNet-18/deepxplore-torch/results/idx05880_airplane_occl_original.png
+
