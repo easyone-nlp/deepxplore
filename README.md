@@ -149,6 +149,6 @@ Compared with the original ImageNet-oriented prototype, this repository was modi
 
 ## Notes
 
-- The original `seeds/` directory from the prototype is not required for the CIFAR-10 workflow.
+- The original `seeds/` directory, 'deepxlore.py', 'gen_diff.py', 'run-torch.sh' from the prototype is not required for the CIFAR-10 workflow.
 - During gradient ascent, perturbed inputs are not clamped after every step; this follows the behavior of the original DeepXplore-style implementation more closely.
 - PNG outputs are denormalized before saving for visualization.
